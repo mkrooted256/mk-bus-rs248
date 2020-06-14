@@ -1,0 +1,3 @@
+[submodule "mkcrc8"]
+	path = mkcrc8
+	url = git@github.com:mkrooted256/mkcrc8.git
